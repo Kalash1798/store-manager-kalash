@@ -1,2 +1,2 @@
-# store-manager-kalash
+# store-management-kalash
 Store Management project
